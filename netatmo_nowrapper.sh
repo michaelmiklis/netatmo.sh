@@ -20,7 +20,7 @@ listDevices() {
     # ------------------------------------------------------
     URL_LOGIN="https://auth.netatmo.com/en-us/access/login"
     URL_POSTLOGIN="https://auth.netatmo.com/access/postlogin"
-    API_GETMEASURECSV="https://api.netatmo.com/api/getmeasurecsv"
+    API_GETMEASURECSV="https://api.netatmo.com/api/getstationsdata"
     SESSION_COOKIE="cookie_sess.txt"
  
  
